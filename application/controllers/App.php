@@ -2,13 +2,13 @@
 
 /*
 * Name        : Facebook Bot (fb-bot)
-* Author      : DulLah
+* Author      : Lenard Doydoy 
 * Version     : 1.1
 * Update      : 06 June 2020
-* Facebook    : https://www.facebook.com/dulahz
-* Telegram    : https://t.me/DulLah
-* Whatsapp    : https://wa.me/6282320748574
-* Donate      : Ovo/Dana (6282320748574)
+* Facebook    : https://www.facebook.com/lenard.doydoy.5
+* Telegram    : 
+* Whatsapp    : 
+* Donate      : 
 *
 * Changing/removing the author's name will not make you a real programmer
 * Please respect me for making this tool from the beginning. :)
