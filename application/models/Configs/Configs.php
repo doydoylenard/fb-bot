@@ -25,8 +25,8 @@ class Configs extends CI_Model {
 {$this->yellow}                         \ \ {$this->reset}| {$this->yellow}* %s
 {$this->yellow}    .-'''''-.    __       |/ {$this->reset}|----------------------------
 {$this->yellow}   /         \.'`  `',.--//  {$this->reset}| {$this->yellow}* BOT FOR FACEBOOK [{$this->red}CLI{$this->yellow}]
-{$this->yellow} -(  {$this->red}FACEBOOK{$this->yellow} | {$this->red}BOT{$this->yellow}  |  @@\  {$this->reset}| {$this->yellow}* AUTHOR : DulLah
-{$this->yellow}   \         /'.____.'\___|  {$this->reset}| {$this->yellow}* GIT    : github.com/dz-id
+{$this->yellow} -(  {$this->red}FACEBOOK{$this->yellow} | {$this->red}BOT{$this->yellow}  |  @@\  {$this->reset}| {$this->yellow}* REMODED : Lenard Doydoy 
+{$this->yellow}   \         /'.____.'\___|  {$this->reset}| {$this->yellow}* Facebook    : https://www.facebook.com/lenard.doydoy.5
 {$this->yellow}    '-.....-' __/ | \   (`)  {$this->reset}|----------------------------
 {$this->reset}    v1.1 dev{$this->yellow} /   /  /        {$this->reset}| {$this->yellow}* %s
 {$this->yellow}                 \  \ \n{$this->reset}".PHP_EOL;
