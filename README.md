@@ -34,7 +34,7 @@
   </a>
 </div>
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/doydoylenard-id">Lenard Doydoy</a>
+  remoded ❤️ by <a href="https://github.com/doydoylenard-id">Lenard Doydoy</a>
 </p>
 <p align="center">
  <img src="https://github.com/dz-id/fb-bot/blob/master/images/menu.png" width="640" title="Menu" alt="Menu">
@@ -85,15 +85,3 @@ git clone https://github.com/dz-id/fb-bot
 cd fb-bot
 php bot.php
 ```
-
-## Thank you for all
-1. CLIMate Library [here](https://climate.thephpleague.com/).
-2. Codeigniter [here](https://codeigniter.com/).
-3. ASCII Art Generator [here](https://www.asciiart.eu/).
-
-## Contact
-1. Facebook [here](https://www.facebook.com/dulahz).
-2. Telegram [here](https://t.me/DulLah).
-
-## Donation
-If you want to buy my coffee, OVO/DANA (6282320748574)
