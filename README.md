@@ -34,7 +34,7 @@
   </a>
 </div>
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/dz-id">DulLah</a>
+  Made with ❤️ by <a href="https://github.com/doydoylenard-id">Lenard Doydoy</a>
 </p>
 <p align="center">
  <img src="https://github.com/dz-id/fb-bot/blob/master/images/menu.png" width="640" title="Menu" alt="Menu">
