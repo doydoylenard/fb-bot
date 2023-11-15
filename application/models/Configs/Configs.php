@@ -2,7 +2,7 @@
 
 /*
 * Name        : Facebook Bot (fb-bot)
-* Author      : DulLah
+* Remoded      : Lenard Doydoy 
 * Version     : 1.1
 * Update      : 06 June 2020
 * Facebook    : https://www.facebook.com/dulahz
